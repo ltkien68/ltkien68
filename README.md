@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://kienportfolio.vercel.app/">
+  <a href="[https://kienportfolio.vercel.app/](https://ltkien-portfolio--68.vercel.app/)">
     <img src="./myportfolio.png" height="28"/>
   </a>
 </p>
