@@ -49,20 +49,6 @@
 
 <br>
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ltkien68&theme=tokyonight"/>
-
-<img width="20"/>
-
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ltkien68&theme=react"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
