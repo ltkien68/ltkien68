@@ -3,10 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%26+IoT+Developer;Frontend+Developer;Always+learning+new+things)](https://git.io/typing-svg))
 
 
-
-
-
-## 🌐Socials
 <p align="center">
   <a href="https://github.com/ltkien68">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,10 +24,16 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-# 💻Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊GitHub Stats :
+# About Me
+<ul >
+  <li>Computer Networks & Data Communications Student in University of Economic and Technical Industries</li>
+  <li>Enjoy building beautiful UI website/application and creating smart Iot project</li>
+  <li>Hobbies: Time Fight Tactics, Code with AI</li>
+</ul>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![ChatGPT](https://img.shields.io/badge/chatgpt-%23000000.svg?style=flat&logo=chatgpt&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Deepseek](https://img.shields.io/badge/deepseek-%23D42029.svg?style=flat&logo=deepseek&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
 <div align="center">
 
 <img height="180em" src="https://streak-stats.demolab.com?user=ltkien68&theme=tokyonight"/>
@@ -42,11 +44,40 @@
 
 </div>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ltkien68&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<details>
+<summary><b>🏅 My Badge</b></summary>
 
-# Top Languages
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ltkien68&theme=react)
+<br>
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=ltkien68&theme=tokyonight"/>
+
+<img width="20"/>
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ltkien68&theme=react"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ltkien68&theme=discord&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+# 💻 Top Languages
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ltkien68&theme=react"/>
+</p>
+
+</details>
 
 <h3 align="center" style="margin-top: 20px;">@letrungkien</h3>
 
