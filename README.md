@@ -1,4 +1,4 @@
-
+![Header]("./github-header-banner.png")
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Embedded+Systems+%26+IoT+Developer;Frontend+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
