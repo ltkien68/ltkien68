@@ -27,7 +27,7 @@
 
 # About Me
 <ul >
-  <li>Computer Networks & Data Communications Student in <a href="https://uneti.edu.vn/" target="_blank">University of Economic and Technical Industries</a></li>
+  <li>Computer Networks & Data Communications Student in <a href="https://uneti.edu.vn/" target="_blank">University of Economic and Technical Industries (UNETI)</a></li>
   <li>Enjoy building beautiful UI website/application and creating smart Iot project</li>
   <li>Hobbies: Time Fight Tactics, Code with AI</li>
 </ul>
