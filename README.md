@@ -4,30 +4,30 @@
 
 
 <p align="center">
-  <a href="https://github.com/ltkien68">
+  <a href="https://github.com/ltkien68" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.facebook.com/ltk6805">
+  <a href="https://www.facebook.com/ltk6805" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/cihn.68/">
+  <a href="https://www.instagram.com/cihn.68/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/ltkien68/">
+  <a href="https://www.linkedin.com/in/ltkien68/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://ltkien-portfolio--68.vercel.app/">
+  <a href="https://ltkien-portfolio--68.vercel.app/" target="_blank">
     <img src="./myportfolio.png" height="28"/>
   </a>
 </p>
 
 # About Me
 <ul >
-  <li>Computer Networks & Data Communications Student in <a href="https://uneti.edu.vn/">University of Economic and Technical Industries</a></li>
+  <li>Computer Networks & Data Communications Student in <a href="https://uneti.edu.vn/" target="_blank">University of Economic and Technical Industries</a></li>
   <li>Enjoy building beautiful UI website/application and creating smart Iot project</li>
   <li>Hobbies: Time Fight Tactics, Code with AI</li>
 </ul>
